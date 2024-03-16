@@ -8,8 +8,10 @@
 <img src="https://img.shields.io/github/languages/code-size/lsr0LSR/Actions?color=blueviolet">
 </div>
 
-个人收集并适配Github Actions的各类签到大杂烩
-## 不要fork了 ⭐️star就行 #
+# [原项目:](https://github.com/MayoBlueSky/My-Actions)
+
+[@MayoBlueSky](https://github.com/MayoBlueSky) 个人收集并适配Github Actions的各类签到大杂烩
+## 不要fork了  #
 
 [点这里加TG群](https://t.me/joinchat/Os0AUkWMJl43ODBl) 
 
